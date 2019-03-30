@@ -3,7 +3,7 @@
 	"version": "0.0.1",
 	"description": "What am I about?",
 	"main": "server.js",
-  "author": "Aniket Agarwal";
+  	"author": "Aniket Agarwal",
 	"scripts": {
 		"start": "node server.js"
 	},
